@@ -29,7 +29,7 @@ redirect_from:
 
 * One [handbook chapter](http://jbolanoshurtado.github.io/files/Malca_Bolanos_(2019)_Export_Market_Orientation.pdf) in Prof. Shirley Götz's 2020 edited book "América Latina y Asia Pacífico: Relaciones y proyecciones de cara a un mundo turbulento" ([link to book](https://ediciones.uahurtado.cl/producto/america-latina-y-asia-pacifico/)).
 
-* A [report](https://www.observatorioalianzadelpacifico.net/_files/ugd/438ac2_e83db098dea542488773a1edcde56e19.pdf) in 2018 for the Strategic Observatory for the Pacific Alliance ([OEAP](https://www.observatorioalianzadelpacifico.net/)).
+* A [report](https://github.com/jbolanoshurtado/jbolanoshurtado.github.io/blob/master/files/2018-Estudio-Programa-de-Movilidad-Estudiantil-y-Acade%CC%81mica-Alianza-del-Paci%CC%81fico.pdf) in 2018 for the Strategic Observatory for the Pacific Alliance ([OEAP](https://www.linkedin.com/company/observatorio-estrat%C3%A9gico-de-la-alianza-del-pac%C3%ADfico/about/)).
 
 ## Awards, fellowships, and grants
 * Second year full tuition scholarship (EUR 16201) - **University of Groningen**, Graduate School of Economics and Business (Jul/2022)
