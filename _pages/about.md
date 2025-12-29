@@ -8,6 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD candidate at the Global Economics and Management Department, University of Groningen.  My research interest relates to how organisations learn from performance feedback, pursue multiple goals, search for solutions in complex landscapes, and change over time.  I enjoy exploring these topics related to the behavioural theory of the firm from an international business point of view. 
+I am a full-time, non-tenure track assistant professor at the Department of Marketing and International Business, Universidad del Pacifico (Peru).  My current research interest relates to new product introductions and innovation activities in SMEs in emerging economies. 
 
-You can find my pre-doctoral research [here](https://jbolanoshurtado.github.io/publications/ "To current research"), and my cv with additional details [here](https://jbolanoshurtado.github.io/cv/ "To my CV").
+You can find my pre-doctoral research work [here](https://EstrellaPeinadoBravo.github.io/publications/ "To current research"), and my cv with details about my experience as a junior faculty member [here](https://EstrellaPeinadoBravo.github.io/cv/ "To my CV").
